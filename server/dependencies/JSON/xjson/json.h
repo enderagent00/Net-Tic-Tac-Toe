@@ -2,6 +2,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #pragma once
 
+// Source: https://github.com/stbachmann/xjson
+
 /*
     A small header-only json library for C. The key unique feature is that it
     allows use of the same code to serialize as well as deserialize, greatly
